@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#71A842",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "高校毕业生就业信息首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
